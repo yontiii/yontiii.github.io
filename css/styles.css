@@ -1,5 +1,31 @@
 #hey{
   width: 200px;
   height: 150px;
-  border-radius: 50px;
+  border-radius: 100px;
+}
+.intro{
+  background-image: url(images/bg.jpg);
+}
+img{
+  width: 500px;
+  height: 280px;
+}
+#education{
+  float: left;
+}
+#jobs{
+  float: right;
+
+}
+.jobs{
+  clear: both;
+}
+/* body{
+  text-align: center;
+} */
+.clear{
+  clear: both;
+}
+p,h1{
+  text-align: center;
 }
