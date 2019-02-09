@@ -4,7 +4,7 @@
   border-radius: 100px;
 }
 .intro{
-  background-image:url('/images/bg.jpg');
+  background-image:url('Portfolio/images/hey.jpg');
   background-size:cover;
   z-index:8;
   width:100%;
@@ -92,5 +92,11 @@ table tr th td{
   padding-left: 15px
   padding-right:10px;
   padding-bottom: 15px;
-
+}
+table{
+  float:
+}
+body{
+  background-color: #F2F5ED;
+  font-family: 'Roboto', sans-serif
 }
