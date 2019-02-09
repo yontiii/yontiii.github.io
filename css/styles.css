@@ -59,5 +59,17 @@ nav ul li a:hover{
 }
 h1:hover{
   text-decoration: underline;
-  color:  #377D64; 
+  color:  #377D64;
+}
+#intro:hover{
+  text-decoration: none;
+  color: black;
+}
+#intro{
+  font-size: 50px;
+  font-weight: 600;
+}
+span{
+  color: #377D64;
+  font-weight: bold;
 }
