@@ -4,7 +4,12 @@
   border-radius: 100px;
 }
 .intro{
-  background-image: url(images/bg.jpg);
+  background-image:url('/images/bg.jpg');
+  background-size:cover;
+  z-index:8;
+  width:100%;
+  background-repeat:no-repeat;
+  height:800px;
 }
 img{
   width: 500px;
@@ -26,6 +31,33 @@ img{
 .clear{
   clear: both;
 }
-p,h1{
+p,h1,#about{
   text-align: center;
+}
+nav{
+  padding:15px;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: auto;
+  background: #377D64;
+}
+ul{
+  text-align: left;
+}
+li{
+  display: inline-block;
+}
+nav ul li a{
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 20px;
+  letter-spacing: 2px;
+  color: white;
+}
+nav ul li a:hover{
+  color:
+}
+h1:hover{
+  text-decoration: underline;
+  color:  #377D64; 
 }
