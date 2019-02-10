@@ -32,6 +32,7 @@ img{
 }
 .jobs{
   clear: both;
+  box-shadow: 4px 4px 5px #377D64;
 }
 .projects{
   clear: both;
@@ -110,11 +111,11 @@ span{
 }
 #new{
   width: 28%;
+  border-radius: 50px;
 }
 .projo img {
   width:400px ;
-  height:250px;
-  box-sizing: border-box;
+  height:200px;
   border-top: 1px solid #377D64;
   border-bottom: 1px solid #377D64;
   border-left: 1px solid #377D64;
@@ -130,6 +131,7 @@ span{
   padding-right: 18px;
   padding-top: 18px;
   padding-bottom: 18px;
+  border-radius: 95px;
 }
 .contacts{
   background-color: #377D64;
