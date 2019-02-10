@@ -4,7 +4,7 @@
   border-radius: 100px;
 }
 .intro{
-  background-image:url('Portfolio/images/hey.jpg');
+  background-image:url('http://www.toca-ch.com/data/walls/26/22095517.jpg');
   background-size:cover;
   z-index:8;
   width:100%;
@@ -65,10 +65,12 @@ h1:hover{
 }
 #intro:hover{
   text-decoration: none;
-  color: black;
+  text-align: center;
 }
 #intro{
-  font-size: 50px;
+  font-size: 100px;
+  font-weight: 600;
+  color: white;
   font-weight: 600;
 }
 span{
@@ -93,18 +95,27 @@ span{
 }
 .table a{
   color: blue;
-}
+/* }
 .table a:hover{
   text-decoration: underline;
 }
 tr{
   border: 2px solid black;
   padding-top: 20px;
-}
-body{
-  background-color: #F2F5ED;
-  font-family: 'Roboto', sans-serif
-}
-.programing{
+} */
+
+.programming{
   clear: both;
+}
+#table{
+  border-collapse: collapse;
+  width: 60%;
+}
+#table th, #customers th{
+  border:1px solid black;
+  padding: 10px;
+}
+.paragraph{
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
 }
