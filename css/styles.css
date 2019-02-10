@@ -1,7 +1,10 @@
 #hey{
   width: 200px;
-  height: 150px;
+  height: 200px;
   border-radius: 100px;
+}
+.main{
+  background-color: #E2E2E2
 }
 .intro{
   background-image:url('http://www.toca-ch.com/data/walls/26/22095517.jpg');
@@ -17,11 +20,13 @@ img{
 }
 #education{
   float: left;
-  margin-right: 18px;
+  margin-right: 25px;
+  margin-bottom:20px;
 }
 #jobs{
   float: right;;
-  margin-left: 18px
+  margin-left: 25px
+  margin-bottom:20px;
 
 }
 .jobs{
@@ -85,7 +90,7 @@ span{
 #more{
   text-align: center;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 80px;
   background: #377D64;
   color: white;
   padding-top: 15px;
@@ -93,29 +98,10 @@ span{
   padding-right:10px;
   padding-bottom: 15px;
 }
-.table a{
-  color: blue;
-/* }
-.table a:hover{
-  text-decoration: underline;
-}
-tr{
-  border: 2px solid black;
-  padding-top: 20px;
-} */
-
-.programming{
+.Programming{
   clear: both;
 }
-#table{
-  border-collapse: collapse;
-  width: 60%;
-}
-#table th, #customers th{
-  border:1px solid black;
-  padding: 10px;
-}
 .paragraph{
-  font-family: 'Rubik', sans-serif;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: lighter;
 }
