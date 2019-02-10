@@ -26,5 +26,5 @@ Finally, is the **contacts** session
 # TECHNOLOGIES USED
 The main technologies used were ***HTML*** and ***CSS***
 
-#CONTACT INFORMATION
-Reach me through my email address: <muasajohn01@gmail.com">
+# CONTACT INFORMATION
+Reach me through my email address: <muasajohn01@gmail.com>
