@@ -17,9 +17,11 @@ img{
 }
 #education{
   float: left;
+  margin-right: 18px;
 }
 #jobs{
-  float: right;
+  float: right;;
+  margin-left: 18px
 
 }
 .jobs{
@@ -28,7 +30,7 @@ img{
 /* body{
   text-align: center;
 } */
-.clear{
+.projects{
   clear: both;
 }
 p,h1,#about{
@@ -78,10 +80,6 @@ span{
   border-radius: 20px;
   border: 1 px solid black;
 } */
-table tr th td{
-  padding: 10px;
-  border: 2px solid black;
-}
 #more{
   text-align: center;
   text-decoration: none;
@@ -93,10 +91,20 @@ table tr th td{
   padding-right:10px;
   padding-bottom: 15px;
 }
-table{
-  float:
+.table a{
+  color: blue;
+}
+.table a:hover{
+  text-decoration: underline;
+}
+tr{
+  border: 2px solid black;
+  padding-top: 20px;
 }
 body{
   background-color: #F2F5ED;
   font-family: 'Roboto', sans-serif
+}
+.programing{
+  clear: both;
 }
